@@ -1,0 +1,1 @@
+export const baseURL = `https://payments-app-backend.onrender.com`
